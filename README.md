@@ -1,5 +1,5 @@
 ## Exploratoty data analysis on white wine quality with R 
-Using R and Rstudio, white wine quality data 
+Using R and Rstudio, I conducted data analysis on white wine quality data to find out which chemical properties influence the quality of the wine.
 
 ## Description
 This data set contains 4,898 white wines with 11 variables on quantifying the chemical properties of each wine.
